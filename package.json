@@ -1,0 +1,22 @@
+{
+  "name": "backeryapp",
+  "version": "1.0.0",
+  "description": "This is a simple website with basic functionalities for a Bakery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeuche/bakery.git"
+  },
+  "author": "jake uche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakeuche/bakery/issues"
+  },
+  "homepage": "https://github.com/jakeuche/bakery#readme",
+  "publishConfig": {
+     "registry": "https://npm.pkg.github.com/" 
+    }
+}
