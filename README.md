@@ -9,4 +9,4 @@
  About Page which also contains the reservation section
  Bakers Page which contains the profile of the bakers.
  
- Live URL : https://abdulsamadayoade.github.io/Bakery
+ Live URL : https://jakeuche.github.io/bakery/
